@@ -7,11 +7,15 @@ def hello_world():
           )
 
 # Second task
+
+
 def hello_max():
     print("Hello Max")
 
 # Third task
 # Celsius to farenheit
+
+
 def convert_c_to_f():
     celsius = float(input("Enter a temperature in Celsius: "))
     fahrenheit = (9/5) * celsius + 32
@@ -19,6 +23,8 @@ def convert_c_to_f():
 
 # Fourth task
 # Calculating batting average of Geoffery Boycott
+
+
 def batting_average():
     batted = 1014
     not_out = 162
@@ -30,6 +36,8 @@ def batting_average():
 
 # Fifth task
 # Calculating student groups
+
+
 def student_groups():
     group_size = 24
     valid = False
